@@ -1,0 +1,11 @@
+
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f9f7f1; color: #333; }
+header { background: #e6d3a3; padding: 40px 20px; text-align: center; }
+header h1 { margin: 0; font-size: 2.5em; }
+header p { font-size: 1.2em; margin: 10px 0; }
+nav { background: #f4e8c1; padding: 10px; text-align: center; }
+nav a { margin: 0 15px; text-decoration: none; color: #444; font-weight: bold; }
+section { padding: 40px 20px; max-width: 1000px; margin: auto; }
+section h2 { color: #996633; }
+.button { display: inline-block; margin: 10px 10px 0 0; padding: 10px 20px; background: #996633; color: #fff; text-decoration: none; border-radius: 5px; }
+footer { background: #f4e8c1; text-align: center; padding: 20px; font-size: 0.9em; }
